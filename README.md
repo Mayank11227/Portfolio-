@@ -13,7 +13,7 @@ This is my personal portfolio website built to:
 
 Present my technical skills.
 
-Showcase my featured projects
+Showcase my featured projects.
 
 Share my professional background
 
