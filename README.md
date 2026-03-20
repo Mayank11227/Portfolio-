@@ -15,7 +15,7 @@ Present my technical skills.
 
 Showcase my featured projects.
 
-Share my professional background
+Share my professional background.
 
 Provide a way to contact me
 
