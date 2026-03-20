@@ -11,7 +11,7 @@ This project showcases my skills, projects, and experience as a developer.
 
 This is my personal portfolio website built to:
 
-Present my technical skills
+Present my technical skills.
 
 Showcase my featured projects
 
