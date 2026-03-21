@@ -25,6 +25,6 @@ The website is fully responsive and optimized for desktop and mobile devices.
 
 HTML5.
 
-CSS3
+CSS3.
 
 JavaScript
