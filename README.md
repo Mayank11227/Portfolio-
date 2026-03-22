@@ -23,8 +23,6 @@ The website is fully responsive and optimized for desktop and mobile devices.
 
 🛠️ Built With
 
-HTML5.
-
-CSS3.
-
-JavaScript.
+HTML 
+CSS
+JAVASCRIPT 
