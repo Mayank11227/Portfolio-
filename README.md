@@ -25,4 +25,4 @@ The website is fully responsive and optimized for desktop and mobile devices.
 
 HTML 
 CSS
-JAVASCRIPT 
+JAVASCRIPT .
