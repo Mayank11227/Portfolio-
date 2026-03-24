@@ -24,5 +24,5 @@ The website is fully responsive and optimized for desktop and mobile devices.
 🛠️ Built With
 
 HTML 
-CSS
+CSS.
 JAVASCRIPT .
