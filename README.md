@@ -17,7 +17,7 @@ Showcase my featured projects.
 
 Share my professional background.
 
-Provide a way to contact me
+Provide a way to contact me.
 
 The website is fully responsive and optimized for desktop and mobile devices.
 
